@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "Abhishek-lh": {
+    "title": "Abhishek L",
+    "website": "https://github.com/Abhishek-lh",
+    "logo": "https://avatars0.githubusercontent.com/u/5726769?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/Abhishek-lh",
           "versions": {
             "1.0.0": {
               "simple": {
